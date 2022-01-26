@@ -28,15 +28,22 @@ You will finde information about os in the [node documentation](https://nodejs.o
 
 ## Your output could look like this:
 
+
 System information:
+
 Your system is running on win32.
+
 Your node version is v14.18.1.
 
 Your computer has 8 cores.
+
 Your computer has 16861372416 bytes of memory.
+
 Your computer has 5243441152 bytes of free memory.
 
+
 IP addresses:
+
 Your private IP address is 192.174.111.41.
 
 File created on January 26, 2022 at 14:25.
